@@ -7,9 +7,9 @@ Esse repositório contém informações do Meet Up apresentado no dia 27/04 sobr
 ### Survey
 | Paper |
 | -- | 
-| A Survey of Data Augmentation Approaches for NLP [ACL '21] (https://aclanthology.org/2021.findings-acl.84.pdf) [code](https://github.com/styfeng/DataAug4NLP) | 
-| A Survey on Data Augmentation for Text Classification [ACM '22] (https://arxiv.org/abs/2107.03158) | 
-| Data augmentation techniques in natural language processing [ASOC '23] (https://www.sciencedirect.com/science/article/pii/S1568494622008523) [code] (https://github.com/lucasfaop/survey_text_augmentation) | 
+| A Survey of Data Augmentation Approaches for NLP [ACL '21](https://aclanthology.org/2021.findings-acl.84.pdf) [code](https://github.com/styfeng/DataAug4NLP) | 
+| A Survey on Data Augmentation for Text Classification [ACM '22](https://arxiv.org/abs/2107.03158) | 
+| Data augmentation techniques in natural language processing [ASOC '23](https://www.sciencedirect.com/science/article/pii/S1568494622008523) [code] (https://github.com/lucasfaop/survey_text_augmentation) | 
 
 ### Papers de Técnicas específicas
 | Paper | Técnica | Categoria |
