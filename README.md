@@ -9,11 +9,11 @@ Esse repositório contém informações do Meet Up apresentado no dia 27/04 sobr
 | -- | 
 | A Survey of Data Augmentation Approaches for NLP [ACL '21](https://aclanthology.org/2021.findings-acl.84.pdf) [code](https://github.com/styfeng/DataAug4NLP) | 
 | A Survey on Data Augmentation for Text Classification [ACM '22](https://arxiv.org/abs/2107.03158) | 
-| Data augmentation techniques in natural language processing [ASOC '23](https://www.sciencedirect.com/science/article/pii/S1568494622008523) [code] (https://github.com/lucasfaop/survey_text_augmentation) | 
+| Data augmentation techniques in natural language processing [ASOC '23](https://www.sciencedirect.com/science/article/pii/S1568494622008523) [code](https://github.com/lucasfaop/survey_text_augmentation) | 
 
 ### Papers de Técnicas específicas
 | Paper | Técnica | Categoria |
-| -- |
+| -- | -- | -- |
 | Synonym Replacement (Character-Level Convolutional Networks for Text Classification, [NeurIPS '15](https://papers.nips.cc/paper/2015/file/250cf8b51c773f3f8dc8b4be867a9a02-Paper.pdf)) | Troca por Sinônimos | Nível de palavra |
 | Robust Training under Linguistic Adversity [(EACL '17)](https://www.aclweb.org/anthology/E17-2004/) [code](https://github.com/lrank/Linguistic_adversity) |
 | Contextual Augmentation: Data Augmentation by Words with Paradigmatic Relations [(NAACL '18)](https://www.aclweb.org/anthology/N18-2072.pdf) [code](https://github.com/pfnet-research/contextual_augmentation) |  C-BERT | Nível de palavra |
