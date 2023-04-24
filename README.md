@@ -49,8 +49,8 @@ Esse repositório contém informações do Meet Up apresentado no dia 27/04 sobr
 
 
 
-### Popular Resources
-- [A visual survey of data augmentation in NLP](https://amitness.com/2020/05/data-augmentation-for-nlp/)
+### Recursos e Pacotes
+- [Post com explicação de técnicas](https://amitness.com/2020/05/data-augmentation-for-nlp/)
 - [nlpaug](https://github.com/makcedward/nlpaug)
 - [TextAttack](https://github.com/QData/TextAttack)
 - [AugLy](https://github.com/facebookresearch/AugLy)
