@@ -15,7 +15,6 @@ Esse repositório contém informações do Meet Up apresentado no dia 27/04 sobr
 | Paper | Técnica | Categoria |
 | -- | -- | -- |
 | Synonym Replacement (Character-Level Convolutional Networks for Text Classification, [NeurIPS '15](https://papers.nips.cc/paper/2015/file/250cf8b51c773f3f8dc8b4be867a9a02-Paper.pdf)) | Troca por Sinônimos | Nível de palavra |
-| Robust Training under Linguistic Adversity [(EACL '17)](https://www.aclweb.org/anthology/E17-2004/) [code](https://github.com/lrank/Linguistic_adversity) |
 | Contextual Augmentation: Data Augmentation by Words with Paradigmatic Relations [(NAACL '18)](https://www.aclweb.org/anthology/N18-2072.pdf) [code](https://github.com/pfnet-research/contextual_augmentation) |  C-BERT | Nível de palavra |
 | EDA: Easy Data Augmentation Techniques for Boosting Performance on Text Classification Tasks [(EMNLP '19)](http://dx.doi.org/10.18653/v1/D19-1670) [code](https://github.com/jasonwei20/eda_nlp) | EDA | Nível de palavra |
 | A Closer Look At Feature Space Data Augmentation For Few-Shot Intent Classification [(DeepLo @ EMNLP '19)](https://arxiv.org/abs/1910.04176) | Adição de ruído | Espaço de variáveis |
@@ -26,7 +25,6 @@ Esse repositório contém informações do Meet Up apresentado no dia 27/04 sobr
 | SSMBA: Self-Supervised Manifold Based Data Augmentation for Improving Out-of-Domain Robustness [(EMNLP '20)](https://www.aclweb.org/anthology/2020.emnlp-main.97/) [code](https://github.com/nng555/ssmba) | SSMBA | Nível de palavra | 
 | Data Boost: Text Data Augmentation Through Reinforcement Learning Guided Conditional Generation [(EMNLP '20)](https://www.aclweb.org/anthology/2020.emnlp-main.726/) | Data Boost | Nível de documento |
 | GPT3Mix: Leveraging Large-scale Language Models for Text Augmentation [(arXiv '21)](https://arxiv.org/abs/2104.08826) | Prompt | Nível de Documento |
-| Few-Shot Text Classification with Triplet Loss, Data Augmentation, and Curriculum Learning [(NAACL '21)](https://arxiv.org/abs/2103.07552) [code](https://github.com/jasonwei20/triplet-loss) | HUFF, COV-Q, AMZN, FEWREL | 
 | Text AutoAugment: Learning Compositional Augmentation Policy for Text Classification [(EMNLP '21)](https://arxiv.org/abs/2109.00523) [code](https://github.com/lancopku/text-autoaugment) | AutoAugment | Nível de palavra |
 | AEDA: An Easier Data Augmentation Technique for Text Classification [(EMNLP '21)](https://arxiv.org/abs/2108.13230) [code](https://github.com/akkarimi/aeda_nlp) | AEDA | Nível de palavra |
 
