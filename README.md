@@ -20,13 +20,16 @@ Esse repositório contém informações do Meet Up apresentado no dia 27/04 sobr
 | A Closer Look At Feature Space Data Augmentation For Few-Shot Intent Classification [(DeepLo @ EMNLP '19)](https://arxiv.org/abs/1910.04176) | Adição de ruído | Espaço de variáveis |
 | Nonlinear Mixup: Out-Of-Manifold Data Augmentation for Text Classification [(AAAI '20)](https://doi.org/10.1609/aaai.v34i04.5822) | Mix-Up | Espaço de variáveis |
 | MixText: Linguistically-Informed Interpolation of Hidden Space for Semi-Supervised Text Classification [(ACL '20)](https://www.aclweb.org/anthology/2020.acl-main.194/) [code](https://github.com/GT-SALT/MixText) | Mix-Up | Espaço de variáveis |
-| Not Enough Data? Deep Learning to the Rescue! [(AAAI '20)](https://arxiv.org/abs/1911.03118) | LAMBADA | Nível de Documento |
+| Not Enough Data? Deep Learning to the Rescue! [(AAAI '20)](https://arxiv.org/abs/1911.03118) | LAMBADA | Nível de documento |
 | Data Augmentation using Pre-trained Transformer Models [LifeLongNLP @ AACL '20](https://arxiv.org/abs/2003.02245), [code](https://github.com/varunkumar-dev/TransformersDataAugmentation) | Contextual Embedding | Nível de palavra |
 | SSMBA: Self-Supervised Manifold Based Data Augmentation for Improving Out-of-Domain Robustness [(EMNLP '20)](https://www.aclweb.org/anthology/2020.emnlp-main.97/) [code](https://github.com/nng555/ssmba) | SSMBA | Nível de palavra | 
 | Data Boost: Text Data Augmentation Through Reinforcement Learning Guided Conditional Generation [(EMNLP '20)](https://www.aclweb.org/anthology/2020.emnlp-main.726/) | Data Boost | Nível de documento |
 | GPT3Mix: Leveraging Large-scale Language Models for Text Augmentation [(arXiv '21)](https://arxiv.org/abs/2104.08826) | Prompt | Nível de Documento |
 | Text AutoAugment: Learning Compositional Augmentation Policy for Text Classification [(EMNLP '21)](https://arxiv.org/abs/2109.00523) [code](https://github.com/lancopku/text-autoaugment) | AutoAugment | Nível de palavra |
 | AEDA: An Easier Data Augmentation Technique for Text Classification [(EMNLP '21)](https://arxiv.org/abs/2108.13230) [code](https://github.com/akkarimi/aeda_nlp) | AEDA | Nível de palavra |
+| ProtAugment: Intent Detection Meta-Learning through Unsupervised Diverse Paraphrasing [(ACL '21)](https://arxiv.org/abs/2105.12995) [code](https://github.com/tdopierre/ProtAugment) | ProtAugment (parafraseador)| Nível de documento|
+| Beyond Accuracy: Behavioral Testing of NLP Models with CheckList [(ACL '20)](https://arxiv.org/abs/2105.12995) | Checklist | Nível de frases/termos|
+
 
 
 ### Retirada de Viés
